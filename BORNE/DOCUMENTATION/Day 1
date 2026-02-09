@@ -1,0 +1,8 @@
+Day 1 Write up
+
+I completed Riddle Registry challenge in PicoCTF under Forensics category. I searched in youtube about how to solve this challenge. It lead me to use metadata2go website (https://www.metadata2go.com/view-metadata) to check files for metadata. 
+Metadata is one of the hint in the challenge. Once I have the metadata, I used Base64 website (https://www.base64decode.org/) to decode the metadata. I got the flag after the metadata was decoded. Since it felt like cheating to
+use metadata checker, I used the webshell in picoCTF because it can be used to solve the challenge. I still watch tutorial about how to use webshell to get the flag. I copied the link of the files and on the webshel I typed "wget" before 
+before pasting the copied file link. Next is to type ls to see the visible files. I can see different files and one of them is "confidential.pdf": the file being used in the challenge. Then, I run "exiftool confidential.pdf" to see
+the details about the file. However the name of the author  is encrypted so I used base64 to decode it. After decoding it, I got the picoCTF flag.
+
