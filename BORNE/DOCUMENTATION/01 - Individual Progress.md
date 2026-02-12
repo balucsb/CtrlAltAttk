@@ -29,13 +29,13 @@
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts)
+- [ /] Created writeup for at least 1 challenge (+10 pts)
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ ] Learned new technique/tool (+10 pts)
+- [ /] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** 20
 
 ### 4. Category Focus Today
 
@@ -45,11 +45,11 @@ Which categories did you practice?
 - [ ] Binary Exploitation / Pwn
 - [ ] Cryptography
 - [ ] Reverse Engineering
-- [ ] Forensics
+- [ /] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** 30 minutes
 
 **Secondary Specialty:** _____ minutes
 
