@@ -29,9 +29,9 @@
 
 ### 3. Quality Indicators
 
-- [ /] Created writeup for at least 1 challenge (+10 pts)
+- [x] Created writeup for at least 1 challenge (+10 pts) 
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ /] Learned new technique/tool (+10 pts)
+- [x] Learned new technique/tool (+10 pts)
 - [ ] Updated cheat sheet (+5 pts)
 - [ ] Practiced timed challenge (+5 pts)
 
@@ -45,7 +45,7 @@ Which categories did you practice?
 - [ ] Binary Exploitation / Pwn
 - [ ] Cryptography
 - [ ] Reverse Engineering
-- [ /] Forensics
+- [x] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
@@ -58,17 +58,20 @@ Which categories did you practice?
 ### 5. Reflection (Qualitative)
 
 **What went well today?**
-
----
+-I successfully solved the Riddle Registry forensics challenge and obtained the flag.
+-I identified metadata as an important clue.
+-I used a few tools and approaches such as: metadata2go for checking metadata, Base64 decoding to reveal hidden info and picoCTF webshell    with commands like wget, ls, and exiftool
+-I was able to verify and redo the solution using a more hands-on technical method (webshell), which shows persistence and improvement.
 
 **What challenged you?**
-
----
+-I initially relied heavily on YouTube tutorials.
+-Learning how to use the picoCTF webshell and command-line tools was a challenge.
 
 **Key learning:**
-
----
+-Metadata analysis is very important in digital forensics challenges.
+-Tools like exiftool can reveal hidden file information.
+-Base64 encoding is commonly used to hide flags or sensitive data.
+-Webshell/CLI skills (wget, ls, file inspection) are essential in CTF forensics.
 
 **Tomorrow's focus:**
-
----
+-Complete the next challenges.
