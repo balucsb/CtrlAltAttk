@@ -14,9 +14,8 @@ BORNE
     - 
   
 DURANO
-- roadmap =
+- roadmap = https://github.com/balucsb/CtrlAltAttk/blob/main/Durtano-Crypto-Roadmap
 - writeups: 
-    - 
-    - 
-    - 
+    -  
+
 
