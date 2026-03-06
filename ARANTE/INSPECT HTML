@@ -1,0 +1,6 @@
+INSPECT HTML WEB EXPLOIT WRITEUP:
+
+1.	First, Launch the instance.
+2.	Click the website word which is highlighted and it will direct u to a webpage.
+3.	Next, Since, this is about inspect html, lets use the web inspector.
+4.	Right click the page and go to inspect, and from there, u will find the flag.
