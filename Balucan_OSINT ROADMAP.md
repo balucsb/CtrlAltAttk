@@ -1,0 +1,66 @@
+Accountability Questions 
+(first week)
+  What went well this week? 
+    ANSWER: Understanding the basics of OSINT through exercises and examples.
+  What didn't go as planned?
+    ANSWER: None so far.
+  What obstacles did I face?
+    ANSWER: Not being able to get the challenges done the first time.
+  How will I overcome that?
+    ANSWER: Explore how others managed to do it and maybe I can take down several notes to follow.
+  Am I on track for my monthly goals? (Yes, No or Partially)
+    ANSWER: Yes.
+=====================================================================
+(second week) 
+  What went well this week? 
+    ANSWER: Answering another OSINT writeup and completing it.
+  What didn't go as planned?
+    ANSWER: None so far.
+  What obstacles did I face?
+    ANSWER: Being stuck in a certain part of the challenge and takes me time to finish.
+  How will I overcome that?
+    ANSWER: Same with first week, explored how people did it themselves and or tried to reverse google search if all else fails.
+  Am I on track for my monthly goals? (Yes, No or Partially)
+    ANSWER: Partially somewhat.
+=====================================================================
+(third week) 
+  What went well this week? 
+    ANSWER: Answering yet another OSINT writeup and completed.
+  What didn't go as planned?
+    ANSWER: None so far.
+  What obstacles did I face?
+    ANSWER: Same with last week, wasn't able to accomplish it on time due to being stuck.
+  How will I overcome that?
+    ANSWER: Same with first week, explored how people did it themselves and or tried to reverse google search if all else fails.
+  Am I on track for my monthly goals? (Yes, No or Partially)
+    ANSWER: Partially yes.
+=====================================================================
+(fourth week) 
+  What went well this week? 
+    ANSWER: None.
+  What didn't go as planned?
+    ANSWER: Being able to accomplish a new writeup.
+  What obstacles did I face?
+    ANSWER: Stuck with the challenge and tried not to check for hints.
+  How will I overcome that?
+    ANSWER: Not sure, but if all else fails, i will either try reverse google search or just check how it was accomplished.
+  Am I on track for my monthly goals? (Yes, No or Partially)
+    ANSWER: Partially yes.
+
+
+
+
+Goal Status (Achieved, In Progress, Adjusted, Abandoned)
+Week 1: ACHIEVED
+Week 2: ACHIEVED
+Week 3: Adjusted
+Week 4: Adjusted
+
+
+KEY INSIGHTS
+Week 1: I was able to navigate and dive down the real sources of images. 
+Week 2: I am starting to get the hang of OSINT. Deep diving further and reading between the lines
+tos see what was overlooked.
+Week 3: I am able to enjoy the challenges of OSINT and see where it takes me.
+Week 4: I was able to discover that some puzzles are harder to accomplish and will take time to navigate to find answers.
+
