@@ -67,6 +67,8 @@ Disko 1 challenge wants me to find the flag in the disk image. First, I copied t
 
 "RED", the second challenge give me a color red picture. It seems pure but it wasn't. The flag must be hidden in the picture. First, I copied the file link and download it, looked for clue by running "strings <file name>" and a poem came out. What is odd is the first letter of each line had a message saying "check LSB", a steganography stuff. So I used cyberchef and upload the file I downloaded in my local computer. I extract the LSB and used the pattern "RGBA" since the hint says "Red?Ged?Bed?Aed?". I got data but in base64 so I converted it from base64 and got the flag.
 
+Third challenge is called "PH4nt0m 1ntrud3r". There is a need to download wireshark app to access pcap file and it took a while to be downloaded. It was a challenge because you have to check every packets and convert its payload data from base to complete the flag. I found all the fragments and got the flag.
+
 **Key learning:**
 
 ---
