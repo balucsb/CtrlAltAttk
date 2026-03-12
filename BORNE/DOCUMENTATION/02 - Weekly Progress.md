@@ -1,6 +1,6 @@
 # Weekly Progress Summary
 
-**Week:** ___ of ___ | **Dates:** _**/**_/___ to _**/**_/___
+**Week:** 1 of 4 | **Dates:** 3**/**12/26 to 3**/**12/26
 
 ## Weekly Metrics
 
