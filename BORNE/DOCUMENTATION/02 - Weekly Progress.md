@@ -1,17 +1,17 @@
 # Weekly Progress Summary
 
-**Week:** 1 of 4 | **Dates:** 2**/**09/26 to 3**/**12/26
+**Week:** 1 of 4 | **Dates:** *2*/*09*/*26* to *3*/*12*12/26
 
 ## Weekly Metrics
 
 | Metric                 | Target | Actual | Status |
 | ---------------------- | ------ | ------ | ------ |
-| Training Hours         | 15-20  | _____  | ☐ ✓/✗  |
-| Challenges Solved      | 15-25  | _____  | ☐ ✓/✗  |
-| Live CTF Participated  | 1-2    | _____  | ☐ ✓/✗  |
-| CTF Challenges Solved  | 2-5    | _____  | ☐ ✓/✗  |
-| Writeups Created       | 3-5    | _____  | ☐ ✓/✗  |
-| New Techniques Learned | 2-3    | _____  | ☐ ✓/✗  |
+| Training Hours         | 15-20  |   15   | ☐ ✓/✗  |
+| Challenges Solved      | 15-25  |   18   | ☐ ✓/✗  |
+| Live CTF Participated  | 1-2    |   1    | ☐ ✓/✗  |
+| CTF Challenges Solved  | 2-5    |   8    | ☐ ✓/✗  |
+| Writeups Created       | 3-5    |   7    | ☐ ✓/✗  |
+| New Techniques Learned | 2-3    |  > 5   | ☐ ✓/✗  |
 
 ## Weekly Points Breakdown
 
@@ -31,7 +31,7 @@ Web Exploitation:     _____ hours [========] ____%
 Binary Exploitation:  _____ hours [========] ____%
 Cryptography:        _____ hours [========] ____%
 Reverse Engineering: _____ hours [========] ____%
-Forensics:           _____ hours [========] ____%
+Forensics:           15    hours [========] 100%
 OSINT:               _____ hours [========] ____%
 ```
 
@@ -39,7 +39,7 @@ OSINT:               _____ hours [========] ____%
 
 | Specialty  | Last Week | This Week | Change |
 | ---------- | --------- | --------- | ------ |
-| Primary #1 | _____     | _____     | _____  |
+| Primary #1 |        4  |    5      |    5   |
 | Primary #2 | _____     | _____     | _____  |
 | Secondary  | _____     | _____     | _____  |
 
@@ -48,8 +48,8 @@ OSINT:               _____ hours [========] ____%
 - [ ] Solved first challenge in new category
 - [ ] Completed difficult challenge independently
 - [ ] Helped teammate solve challenge
-- [ ] Found new technique/exploit
-- [ ] Improved solve time by 20%+
+- [X] Found new technique/exploit
+- [X] Improved solve time by 20%+
 - [ ] Other: _____________________
 
 ## Weekly Challenges & Lessons
