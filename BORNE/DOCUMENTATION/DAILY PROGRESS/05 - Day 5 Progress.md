@@ -63,7 +63,7 @@ Which categories did you practice?
 
 **What challenged you?**
 
----
+Disko 1 challenge wants me to find the flag in the disk image. First, I copied the file link and used "wget <link here>" to download it. Unfortunately it was in gz file so I need to decompress it using "gunzip <name of the file>". The hints says that strings may help so I run "strings <file name> | grep pico" to search for words with "pico" on it. Finally I got the flag.
 
 **Key learning:**
 
