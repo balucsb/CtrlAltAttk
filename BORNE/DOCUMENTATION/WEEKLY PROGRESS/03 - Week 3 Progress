@@ -1,0 +1,7 @@
+This week, I solved several medium-level challenges in picoCTF including St3go, Sleuthkit Intro, Sleuthkit Apprentice, Redaction Gone Wrong, Packets Primer, Operation Orchid, Operation Oni, Lookey Here, File Types, Enhance!, Eavesdrop, WPA-ing Out, Advanced Potion Making, and Milkslap. These challenges focused on digital forensics, steganography, file analysis, and network traffic investigation.
+
+During these tasks, I learned how to analyze disk images using tools from The Sleuth Kit and inspect network packet captures using Wireshark. I also practiced identifying hidden data in files by checking file signatures, analyzing metadata, and decoding encoded information.
+
+One challenge this week was deciding which tools or techniques to use first when analyzing a file or packet capture. However, by carefully reading hints and testing different approaches, I was able to solve the problems.
+
+Overall, this week improved my skills in digital forensics, file investigation, and network analysis, and helped me become more comfortable using cybersecurity tools and command-line techniques.
