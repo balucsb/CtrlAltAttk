@@ -1,0 +1,13 @@
+This week, I completed several medium-level challenges in picoCTF including Disk, Disk, Sleuth! II, MacroHard WeakEdge, Matryoshka Doll,
+Wireshark doo doo.., Disk, Disk, Sleuth!, tunn3l v1s10n, Wireshark twoo twooo.., Trivial Flag Transfer Protocol, Weird File, Pitter, Patter, 
+Platters, shark on wire 2, like1000, What Lies Within, and c0rrupt.
+
+These challenges helped me practice analyzing disk images, recovering hidden files, and investigating network traffic. I used forensic tools 
+such as The Sleuth Kit to explore disk artifacts and Wireshark to examine packet captures and reconstruct transmitted data. Some challenges 
+also required identifying incorrect file headers, extracting hidden layers from files, and decoding encoded information.
+
+One challenge during the week was recognizing the correct technique to use, especially when files were nested or corrupted. 
+However, by carefully analyzing clues and testing different forensic methods, I was able to retrieve the hidden flags.
+
+Overall, these challenges improved my understanding of digital forensics, network packet analysis, and file recovery techniques, while also 
+strengthening my problem-solving skills when dealing with hidden or damaged digital evidence.
