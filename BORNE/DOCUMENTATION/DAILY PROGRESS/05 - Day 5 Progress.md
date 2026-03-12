@@ -2,13 +2,13 @@
 
 ## Daily Training Log
 
-**Date:** _______________ | **Training Day:** ___/180 (or ___/90 for 3-month plan)
+**Date:** 3/12/26| **Training Day:** 5/90 
 
 ### 1. Time Investment
 
-- [ ] Training time today: _______ hours
-- [ ] Goal met? (Yes/No)
-- [ ] Consistency streak: _____ days
+- [ ] Training time today: 3.5 hours
+- [X] Goal met? (Yes/No)
+- [ ] Consistency streak: 4 days
 
 **Points:**
 
@@ -21,7 +21,7 @@
 
 | Difficulty      | Challenges Solved | Points Earned |
 | --------------- | ----------------- | ------------- |
-| Easy            | _____ × 5 pts     | _____         |
+| Easy            |     4 × 5 pts     | 20            |
 | Medium          | _____ × 15 pts    | _____         |
 | Hard            | _____ × 30 pts    | _____         |
 | Expert          | _____ × 50 pts    | _____         |
@@ -29,13 +29,13 @@
 
 ### 3. Quality Indicators
 
-- [ ] Created writeup for at least 1 challenge (+10 pts)
+- [X] Created writeup for at least 1 challenge (+10 pts)
 - [ ] Reviewed 3+ writeups from others (+5 pts)
-- [ ] Learned new technique/tool (+10 pts)
-- [ ] Updated cheat sheet (+5 pts)
-- [ ] Practiced timed challenge (+5 pts)
+- [X] Learned new technique/tool (+10 pts)
+- [X] Updated cheat sheet (+5 pts)
+- [X] Practiced timed challenge (+5 pts)
 
-**Quality Points Total:** _____
+**Quality Points Total:** 30
 
 ### 4. Category Focus Today
 
@@ -45,11 +45,11 @@ Which categories did you practice?
 - [ ] Binary Exploitation / Pwn
 - [ ] Cryptography
 - [ ] Reverse Engineering
-- [ ] Forensics
+- [X] Forensics
 - [ ] OSINT
 - [ ] Other: ___________
 
-**Primary Specialty:** _____ minutes
+**Primary Specialty:** 210 minutes
 
 **Secondary Specialty:** _____ minutes
 
@@ -68,13 +68,20 @@ Third challenge is called "PH4nt0m 1ntrud3r". There is a need to download wiresh
 Fourth challenges is called "Verify". I am back to using webshell and I encountered another command tools. I don't have any idea so I rely on yt tutorials once again. The challenge needs me to use another directories in the webshell and honestly I struggled more than the previous challenge I solved since there a few instructions you need to follow. At the end I identified the file and got the flag.
 
 **What challenged you?**
+I solved 4 challenges today and it was fun but it was challenging to me everytime I encounter new set of commands and third party tool to use since it was my first time encountering it.
 
 
 
 **Key learning:**
 
----
+Disko 1: I learned how to handle compressed forensic files by downloading them with wget, decompressing them using gunzip, and using the strings command with grep to quickly locate hidden text such as flags inside disk images.
+
+RED: This challenge taught me that images can hide information through steganography. By analyzing clues in the file using strings, identifying hints about LSB (Least Significant Bit) encoding, and using tools like CyberChef, I was able to extract hidden data and decode it from Base64.
+
+PH4nt0m 1ntrud3r: I learned how network forensic analysis works by examining packet capture files using Wireshark. By inspecting packet payloads and reconstructing fragmented data, I was able to recover pieces of the flag.
+
+Verify: This challenge helped me practice navigating directories and using command-line tools in a webshell environment. It showed me the importance of carefully following instructions and exploring files within different directories to verify and locate the correct file containing the flag.
 
 **Tomorrow's focus:**
 
----
+--- complete other challenges
