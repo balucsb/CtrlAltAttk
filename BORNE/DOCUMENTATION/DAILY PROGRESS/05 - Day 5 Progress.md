@@ -63,7 +63,9 @@ Which categories did you practice?
 
 **What challenged you?**
 
-Disko 1 challenge wants me to find the flag in the disk image. First, I copied the file link and used "wget <link here>" to download it. Unfortunately it was in gz file so I need to decompress it using "gunzip <name of the file>". The hints says that strings may help so I run "strings <file name> | grep pico" to search for words with "pico" on it. Finally I got the flag.
+Disko 1 challenge wants me to find the flag in the disk image. First, I copied the file link and used "wget <link here>" to download it. Unfortunately it was in gz file so I need to decompress it using "gunzip <name of the file>". The hints says that strings may help so I run "strings <file name> | grep pico" to search for words with "pico" on it. Finally I got the flag. 
+
+"RED", the second challenge give me a color red picture. It seems pure but it wasn't. The flag must be hidden in the picture. First, I copied the file link and download it, looked for clue by running "strings <file name>" and a poem came out. What is odd is the first letter of each line had a message saying "check LSB", a steganography stuff. So I used cyberchef and upload the file I downloaded in my local computer. I extract the LSB and used the pattern "RGBA" since the hint says "Red?Ged?Bed?Aed?". I got data but in base64 so I converted it from base64 and got the flag.
 
 **Key learning:**
 
