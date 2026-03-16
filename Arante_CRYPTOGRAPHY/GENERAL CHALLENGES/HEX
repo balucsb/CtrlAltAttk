@@ -1,0 +1,4 @@
+So, first, this given value is in hex string and we should decode this to bytes to get the flag. (63727970746f7b596f755f77696c6c5f62655f776f726b696e675f776974685f6865785f737472696e67735f615f6c6f747d)
+Lets go to cyberchef, then u will find various operations. Choose from Hex since its a hex string, then drag it to the recipe space.
+Then, copy the hex strings earlier then paste it to the input and from there, in the output display u will see the flag.
+So, the flag is crypto{You_will_be_working_with_hex_strings_a_lot}
