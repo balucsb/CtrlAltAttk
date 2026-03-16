@@ -1,0 +1,25 @@
+So, first, find the value of each of this value in the bracket [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73, 73, 95, 112, 114, 49, 110, 116, 52, 98, 108, 51, 125].
+99 - c
+114- r
+121- y
+112- p
+116- t
+111- o
+123- {
+65-  A
+83-  S
+67-  C
+73-  I
+73-  I
+95-  _
+112  p
+114- r
+49-  1
+110- n
+116- t
+52-  4
+98-  b
+108- l
+51-  e
+125- }
+so, u found the flag crypto{ASCII_pr1nt4bl3}.
